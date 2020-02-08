@@ -1,0 +1,2 @@
+-First compile the cpp code with g++ algo1.cpp -o algo1
+-Then run it like ./algo1 b 100 unsorted.txt
